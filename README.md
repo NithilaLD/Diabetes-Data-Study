@@ -37,5 +37,5 @@ Tools & Technologies : <br>
 6. Scikit-learn
 7. Jupyter Notebook<br><br>
 
-Report : <br>
+Report : https://github.com/NithilaLD/Diabetes-Data-Study/blob/main/Report.pdf<br>
 Kaggle Notebook : https://www.kaggle.com/code/dulannliyanarachchi/diabetes-prediction-and-exploratory-data-analysis
